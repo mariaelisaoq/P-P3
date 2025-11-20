@@ -3,10 +3,16 @@ Para este proyecto parcial, el objetivo es desarrollar un modelo de clasificaci√
 
 Este proyecto incluye los siguientes documentos:
 
-- [Instrucciones en pdf]()
+- [Instrucciones en pdf](Instrucciones_P_P3.pdf)
+
 Para la creaci√≥n del modelo final:
-- [Reporte en formato ipynb](A1.4.ipynb)
-- [Reporte en formato html](A1.4.html)
+
+- [Reporte en formato ipynb](P_P3.ipynb)
+- [Reporte en formato html](P_P3.html)
+
 Para probarlo en tiempo real:
-- [Reporte en formato ipynb](A1.4.ipynb)
-- [Reporte en formato html](A1.4.html)
+
+- [Reporte en formato ipynb](P_P3_1.ipynb)
+- [Reporte en formato html](P_P3_1.html)
+
+De igual manera se adjuntaron los diversos modelos creados en formato .h5
