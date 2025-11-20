@@ -16,3 +16,4 @@ Para probarlo en tiempo real:
 - [Reporte en formato html](P_P3_1.html)
 
 De igual manera se adjuntaron los diversos modelos creados en formato .h5
+* Para este proyecto se utilizaron ChatGPT y DeepSeek tanto en el desarrollo y formato del código, como en el apoyo para la redacción de los markdowns.
